@@ -1,0 +1,26 @@
+.but:hover{
+    color: white;
+}
+
+a:hover{
+    border-bottom: 2px solid black;
+}
+ 
+ul{
+    display: block;
+    gap: 40px;
+}
+
+.container-fluid{
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    height: 60px;
+}
+
+#main1{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 60px;
+}
